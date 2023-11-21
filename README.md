@@ -1,2 +1,3 @@
 # Formula-1-Driver-Position-Prediction
-Predict Formula 1 driver positions using PyTorch. Explore race stats with an interactive Dash dashboard. ETL data with PySpark for efficient processing. Dive into the F1 world!
+Description:
+Predicting Formula 1 driver positions using machine learning. This project utilizes data on drivers, constructors, and race results to train a PyTorch-based model. Explore race statistics, driver performance, and constructor contributions in an interactive Dash dashboard. Extract, transform, and load (ETL) data with PySpark for efficient processing of large datasets. Dive into the exciting world of Formula 1 and enhance your predictions with this comprehensive project.
